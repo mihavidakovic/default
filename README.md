@@ -1,4 +1,4 @@
-default
+Default
 =======
 
-Default
+Default - poatavljen za vsak nov projekt.
